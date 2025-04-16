@@ -1,0 +1,21 @@
+2025-04-04 20:06:18,887 - INFO - Entered username: Admin
+2025-04-04 20:06:19,039 - INFO - Entered password
+2025-04-04 20:06:19,208 - INFO - Clicked login button
+2025-04-04 20:06:20,317 - INFO - Login Successful - Dashboard Loaded
+2025-04-04 20:06:20,318 - INFO - Starting Test: Add New Employee
+2025-04-04 20:06:22,622 - INFO - Navigated to PIM Module
+2025-04-04 20:06:37,537 - INFO - Browser Closed
+2025-04-04 20:07:16,161 - INFO - Entered username: Admin
+2025-04-04 20:07:16,391 - INFO - Entered password
+2025-04-04 20:07:16,616 - INFO - Clicked login button
+2025-04-04 20:07:18,019 - INFO - Login Successful - Dashboard Loaded
+2025-04-04 20:07:18,020 - INFO - Starting Test: Edit Employee
+2025-04-04 20:07:19,992 - INFO - Navigated to PIM Module
+2025-04-04 20:07:37,460 - INFO - Browser Closed
+2025-04-04 20:08:18,276 - INFO - Entered username: Admin
+2025-04-04 20:08:18,420 - INFO - Entered password
+2025-04-04 20:08:18,523 - INFO - Clicked login button
+2025-04-04 20:08:19,839 - INFO - Login Successful - Dashboard Loaded
+2025-04-04 20:08:19,839 - INFO - Starting Test: Delete Employee
+2025-04-04 20:08:21,903 - INFO - Navigated to PIM Module
+2025-04-04 20:08:37,090 - INFO - Browser Closed

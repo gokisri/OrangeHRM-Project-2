@@ -1,0 +1,8 @@
+2025-04-05 01:32:11,480 - INFO - Entered username: Admin
+2025-04-05 01:32:11,578 - INFO - Entered password
+2025-04-05 01:32:11,661 - INFO - Clicked login button
+2025-04-05 01:32:12,820 - INFO - Starting Test: Login with Valid Credentials
+2025-04-05 01:32:30,639 - INFO - Entered username: Admin
+2025-04-05 01:32:30,738 - INFO - Entered password
+2025-04-05 01:32:30,816 - INFO - Clicked login button
+2025-04-05 01:32:31,963 - INFO - Starting Test: Login with Invalid Credentials

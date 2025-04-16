@@ -1,0 +1,12 @@
+2025-04-04 19:58:00,803 - INFO - Initializing WebDriver
+2025-04-04 19:58:27,648 - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login using chrome
+2025-04-04 19:58:27,648 - INFO - Starting Test: Add New Employee
+2025-04-04 19:58:40,131 - INFO - Closed WebDriver
+2025-04-04 19:58:40,136 - INFO - Initializing WebDriver
+2025-04-04 19:59:41,923 - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login using chrome
+2025-04-04 19:59:41,923 - INFO - Starting Test: Edit Employee
+2025-04-04 19:59:54,171 - INFO - Closed WebDriver
+2025-04-04 19:59:54,171 - INFO - Initializing WebDriver
+2025-04-04 20:00:55,813 - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login using chrome
+2025-04-04 20:00:55,813 - INFO - Starting Test: Delete Employee
+2025-04-04 20:01:08,161 - INFO - Closed WebDriver

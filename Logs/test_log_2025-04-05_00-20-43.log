@@ -1,0 +1,23 @@
+2025-04-05 00:20:48,188 - INFO - Entered username: Admin
+2025-04-05 00:20:48,298 - INFO - Entered password
+2025-04-05 00:20:48,384 - INFO - Clicked login button
+2025-04-05 00:20:49,520 - INFO - Starting Test: Login with Valid Credentials
+2025-04-05 00:21:06,482 - INFO - Entered username: Admin
+2025-04-05 00:21:06,595 - INFO - Entered password
+2025-04-05 00:21:06,678 - INFO - Clicked login button
+2025-04-05 00:21:07,763 - INFO - Starting Test: Login with Invalid Credentials
+2025-04-05 00:21:25,238 - INFO - Entered username: Admin
+2025-04-05 00:21:25,346 - INFO - Entered password
+2025-04-05 00:21:25,437 - INFO - Clicked login button
+2025-04-05 00:21:28,276 - INFO - Navigated to PIM Module
+2025-04-05 00:21:30,293 - INFO - Added Employee: John Doe
+2025-04-05 00:21:30,293 - INFO - Test Passed: Employee added successfully
+2025-04-05 00:21:37,311 - INFO - Entered username: Admin
+2025-04-05 00:21:37,425 - INFO - Entered password
+2025-04-05 00:21:37,502 - INFO - Clicked login button
+2025-04-05 00:21:42,591 - INFO - Entered username: Admin
+2025-04-05 00:21:42,690 - INFO - Entered password
+2025-04-05 00:21:42,765 - INFO - Clicked login button
+2025-04-05 00:21:45,990 - INFO - Navigated to PIM Module
+2025-04-05 00:21:48,709 - INFO - Deleted First Employee from the List
+2025-04-05 00:21:48,709 - INFO - Test Passed: First Employee deleted successfully

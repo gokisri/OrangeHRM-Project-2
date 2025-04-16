@@ -1,0 +1,17 @@
+2025-04-04 19:52:28,205 - INFO - Initializing WebDriver
+2025-04-04 19:53:14,555 - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login using chrome
+2025-04-04 19:53:14,555 - INFO - Starting Test: Login with Valid Credentials
+2025-04-04 19:53:19,981 - INFO - Entered username: Admin
+2025-04-04 19:53:20,131 - INFO - Entered password
+2025-04-04 19:53:20,308 - INFO - Clicked login button
+2025-04-04 19:53:21,791 - INFO - Login successful
+2025-04-04 19:53:24,053 - INFO - Closed WebDriver
+2025-04-04 19:53:24,053 - INFO - Initializing WebDriver
+2025-04-04 19:54:13,831 - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login using chrome
+2025-04-04 19:54:13,832 - INFO - Starting Test: Login with Invalid Credentials
+2025-04-04 19:54:14,597 - INFO - Entered username: Admin
+2025-04-04 19:54:14,757 - INFO - Entered password
+2025-04-04 19:54:14,957 - INFO - Clicked login button
+2025-04-04 19:54:19,992 - INFO - Captured error message: Invalid credentials
+2025-04-04 19:54:19,992 - INFO - Error message validated successfully
+2025-04-04 19:54:22,157 - INFO - Closed WebDriver

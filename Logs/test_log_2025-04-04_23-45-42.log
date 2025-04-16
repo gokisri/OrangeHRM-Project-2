@@ -1,0 +1,16 @@
+2025-04-04 23:45:47,329 - INFO - Entered username: Admin
+2025-04-04 23:45:47,437 - INFO - Entered password
+2025-04-04 23:45:47,518 - INFO - Clicked login button
+2025-04-04 23:45:50,260 - INFO - Navigated to PIM Module
+2025-04-04 23:45:52,218 - INFO - Added Employee: John Doe
+2025-04-04 23:45:52,218 - INFO - Test Passed: Employee added successfully
+2025-04-04 23:45:59,254 - INFO - Entered username: Admin
+2025-04-04 23:45:59,364 - INFO - Entered password
+2025-04-04 23:45:59,446 - INFO - Clicked login button
+2025-04-04 23:46:02,201 - INFO - Navigated to PIM Module
+2025-04-04 23:46:09,856 - INFO - Entered username: Admin
+2025-04-04 23:46:09,962 - INFO - Entered password
+2025-04-04 23:46:10,040 - INFO - Clicked login button
+2025-04-04 23:46:12,631 - INFO - Navigated to PIM Module
+2025-04-04 23:46:15,419 - INFO - Deleted First Employee from the List
+2025-04-04 23:46:15,419 - INFO - Test Passed: First Employee deleted successfully

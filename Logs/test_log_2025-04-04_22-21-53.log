@@ -1,0 +1,12 @@
+2025-04-04 22:22:00,062 - INFO - Entered username: Admin
+2025-04-04 22:22:00,156 - INFO - Entered password
+2025-04-04 22:22:00,292 - INFO - Clicked login button
+2025-04-04 22:22:01,399 - INFO - Login Successful - Dashboard Loaded
+2025-04-04 22:22:01,400 - INFO - Starting Test: Login with Valid Credentials
+2025-04-04 22:22:14,060 - INFO - Browser Closed
+2025-04-04 22:22:18,824 - INFO - Entered username: Admin
+2025-04-04 22:22:18,918 - INFO - Entered password
+2025-04-04 22:22:19,009 - INFO - Clicked login button
+2025-04-04 22:22:20,127 - INFO - Login Successful - Dashboard Loaded
+2025-04-04 22:22:20,127 - INFO - Starting Test: Login with Invalid Credentials
+2025-04-04 22:22:32,650 - INFO - Browser Closed

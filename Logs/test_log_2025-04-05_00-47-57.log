@@ -1,0 +1,20 @@
+2025-04-05 00:48:02,591 - INFO - Entered username: Admin
+2025-04-05 00:48:02,690 - INFO - Entered password
+2025-04-05 00:48:02,770 - INFO - Clicked login button
+2025-04-05 00:48:03,898 - INFO - Starting Test: Login with username='Admin', password='admin123'
+2025-04-05 00:48:21,351 - INFO - Entered username: Admin
+2025-04-05 00:48:21,461 - INFO - Entered password
+2025-04-05 00:48:21,544 - INFO - Clicked login button
+2025-04-05 00:48:22,766 - INFO - Starting Test: Login with username='Admin', password='wrongpass'
+2025-04-05 00:48:40,777 - INFO - Entered username: Admin
+2025-04-05 00:48:40,877 - INFO - Entered password
+2025-04-05 00:48:40,960 - INFO - Clicked login button
+2025-04-05 00:48:42,128 - INFO - Starting Test: Login with username='WrongUser', password='admin123'
+2025-04-05 00:48:59,481 - INFO - Entered username: Admin
+2025-04-05 00:48:59,578 - INFO - Entered password
+2025-04-05 00:48:59,667 - INFO - Clicked login button
+2025-04-05 00:49:01,102 - INFO - Starting Test: Login with username='', password='admin123'
+2025-04-05 00:49:18,165 - INFO - Entered username: Admin
+2025-04-05 00:49:18,279 - INFO - Entered password
+2025-04-05 00:49:18,355 - INFO - Clicked login button
+2025-04-05 00:49:19,557 - INFO - Starting Test: Login with username='Admin', password=''
